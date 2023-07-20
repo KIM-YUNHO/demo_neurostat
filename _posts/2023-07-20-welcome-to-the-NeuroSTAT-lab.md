@@ -1,7 +1,9 @@
 ---
 layout: page
+title: welcome!
+tags: [test]
+comments: false
 ---
-
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
