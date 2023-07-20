@@ -1,12 +1,8 @@
 ---
 layout: page
 title: welcome!
-tags: [test]
 comments: false
 ---
-{{ content }}
-
-{% assign posts = paginator.posts | default: site.posts %}
 
 Laboratory of Neuroimaging and STATistics for biomedical data science (NeuroSTAT) is the research group at Ajou University School of Medicine led by Professor Bumhee Park. We investigate applied statistics (or medical informatics), network science, and machine learning (AI) for diverse neuroimaging and big biomedical/clinical data (e.g., HIRA, NHISS, KNHANES, CDM, as well as EMR) <br><br>
 
