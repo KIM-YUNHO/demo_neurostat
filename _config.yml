@@ -20,11 +20,11 @@ author: Bumhee Park
 ###############################################
 
 navbar-links:
-  About Me: "People"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  People: "people"
+  Research: "research"
+  Publication: "publication"
+  Teaching: "teaching"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
