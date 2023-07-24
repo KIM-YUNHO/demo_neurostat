@@ -36,7 +36,7 @@ permalink: /research/
 ---
 
 #### <center>Network Modeling of Psychiatry, Psychological and Biomedical data</center>
-<img src="./assets/img/topic2.jpg" style="width: 1000px;"/><br>
+<img src="../assets/img/topic2.jpg" style="width: 1000px;"/><br>
 ##### Related Articles & Publications
 * Eunyoung Lee, Helmet Karim, Carmen Andreescu, Akiko Mizuno, Howard Aizenstein, Heirim Lee, Dongyun Lee, Kyungmin Lee, Sun-Mi Cho, Doyeop Kim, Rae Woong Park, Sang Joon Son, Bumhee Park*. Network modeling of anxiety and psychological characteristics on suicidal behavior: Cross-sectional study. _Journal of Affective Disorders_. 2022, February, 299, 545-552.
 <br>
@@ -64,7 +64,7 @@ permalink: /research/
 ---
 
 #### <center>Psychiatric/Psychological research with (standardized) Real-World Data</center>
-<img src="./assets/img/topic3.jpg" style="width: 1000px;"/><br>
+<img src="../assets/img/topic3.jpg" style="width: 1000px;"/><br>
 ##### Related Articles & Publications
 * Eunyoung Lee, Helmet Karim, Carmen Andreescu, Akiko Mizuno, Howard Aizenstein, Heirim Lee, Dongyun Lee, Kyungmin Lee, Sun-Mi Cho, Doyeop Kim, Rae Woong Park, Sang Joon Son, Bumhee Park*. Network modeling of anxiety and psychological characteristics on suicidal behavior: Cross-sectional study. _Journal of Affective Disorders_. 2022, February, 299, 545-552.
 <br>
