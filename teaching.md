@@ -1,6 +1,7 @@
 ---
-layout: default
-permalink: /teaching/
+layout: page
+title: Teaching
+subtitle:
 ---
 
 ### For graduate students 
