@@ -29,21 +29,21 @@ permalink: /people/
 
 ## ◦ Graduate Students ◦
 ### Yong Hyuk Cho, MD
-<img src="images/yonghyuk.png" style="width: 200px;" class="img-circle avatar;"/><br>
+<img src="../assets/img/yonghyuk.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * PhD student (융합형 의사과학자 과정)
 * Psychiatrist (정신과학교실)
 * 공동지도 with [Prof. Sang-Joon Son](https://successfulaging.github.io/)
 
 ### Seulgi Lee, MA
-<img src="images/seulgi.png" style="width: 200px;" class="img-circle avatar;"/><br>
+<img src="../assets/img/seulgi.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * PhD student (2nd year), MA in Clinical Psychology (Chung-Ang Univ.)
 
 ### Narae Kim, MA
-<img src="images/narae.png" style="width: 200px;" class="img-circle avatar;"/><br>
+<img src="../assets/img/narae.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * PhD student (1st year), MA in Cognitive Psychology (Chung-Ang Univ.)
 
 ### Dageon Yeo
-<img src="images/yeodageon.jpeg" style="width: 200px;" class="img-circle avatar;"/><br>
+<img src="../assets/img/yeodageon.jpeg" style="width: 200px;" class="img-circle avatar;"/><br>
 * Ms student (join at March 2023), planning to receive BA in Psychology (Chung-Ang Univ.)
  
 ### Yunho Kim 
@@ -55,7 +55,7 @@ permalink: /people/
 ## ◦ Researchers/Interns ◦
 
 ### Kyung Hee Hong, MA
-<img class="img-circle avatar" src="images/kyunghee.png" style="width: 200px;"/><br>
+<img class="img-circle avatar" src="../assets/img/kyunghee.png" style="width: 200px;"/><br>
 * Adiministration
 
 <br>
@@ -63,9 +63,10 @@ permalink: /people/
 ## ◦ Biostatistical Consulting Group (OBS) ◦
  
 ### Ji Hyun Park, MS
-<img src="images/jihyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
+<img src="../assets/img/jihyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * Researcher, MS in Mathematics
 
+<!--
 ### Jisu Kim, MS
 <img src="images/jisu.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * Researcher, MS in Statistics
@@ -73,6 +74,7 @@ permalink: /people/
 ### Sehee Jung, BS
 <img src="images/sehee.JPEG" style="width: 200px;" class="img-circle avatar;"/><br>
 * Researcher, BS in Statistics
+-->
 
 ### Alumni (Position at our lab) - current position
 * Eunyoung A. Lee (PhD student / PhD researcher / Instructor)
