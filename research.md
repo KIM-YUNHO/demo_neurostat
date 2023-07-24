@@ -3,6 +3,8 @@ layout: page
 permalink: /research/
 ---
 
+## Research
+
 #### <center>Statistical Modeling of Human Neuroimaging data</center>
 <img src="../assets/img/topic1.jpg" style="width: 1000px;"/><br>
 ##### Related Articles & Publications
