@@ -1,6 +1,7 @@
 ---
-layout: default
-is_contact: true
+layout: page
+title: Publication
+subtitle:
 ---
 
 Contribution of our lab members (<U>underline</U> or **BOLD text**) is denoted by  
