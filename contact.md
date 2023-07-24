@@ -1,8 +1,8 @@
 ---
-layout: default
-permalink: /contact/
+layout: page
+title: contact
+subtitle:
 ---
-
 
 
 #### Positions available : graduate students / researchers
