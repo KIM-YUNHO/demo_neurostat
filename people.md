@@ -1,6 +1,8 @@
 ---
-layout: default
-permalink: /people/
+
+layout: page
+title: Peple
+subtitle: NeuroSTAT lab
 ---
 
 ### PI: Bumhee Park, PhD
