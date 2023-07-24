@@ -5,7 +5,7 @@ permalink: /people/
 
 ### PI: Bumhee Park, PhD
 
-<img src="assets/img/profe.png" style="width: 200px;"/><br>
+<img src="./assets/img/profe.png" style="width: 200px;"/><br>
  * PhD in NeuroImaging (Yonsei University), MS in Statistics (HUFS)
  * Associate Professor of Biomedical Informatics (의료정보학과) in Ajou University School of Medicine <br>
  * Professor in charge of biostatistical consulting in Ajou University Hospital (office of biostatistics, OBS) <br>
