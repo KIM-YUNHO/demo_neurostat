@@ -1,3 +1,9 @@
+---
+layout: home
+title: About PI
+---
+
+
 <div style="display: flex; align-items: flex-start;">
   <div style="margin-right: 20px;">
     <img src="../assets/img/profe.png" style="width: 200px;"/>
