@@ -144,10 +144,10 @@ img {
 }
 
 .navbar-custom .navbar-brand {
-  line-height: 1.5;
-  padding-top: 0.625rem;
-  padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  line-height: 1.4;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.2rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -191,7 +191,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 800;
+  font-weight: 500;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
