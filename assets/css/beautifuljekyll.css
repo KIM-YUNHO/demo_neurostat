@@ -55,7 +55,7 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: nomal;
+  font-style: italic;
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -144,7 +144,7 @@ img {
 }
 
 .navbar-custom .navbar-brand {
-  line-height: 1.4;
+  line-height: 1.2;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   font-size: 1.2rem;
@@ -172,7 +172,7 @@ img {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 2.5rem;
+  height: 2rem;
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -688,7 +688,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
@@ -805,7 +805,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 
 .pagination .page-item .page-link {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 0.875rem;
   font-weight: 800;
