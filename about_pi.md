@@ -8,7 +8,7 @@
     - Professor in charge of BioSTAT consulting at Ajou University School of Medicine
     - PhD in Neuroimaging (Yonsei Univ), MS in STAT (HUFS)
     - Expertise: neuroimaging, bioSTAT, network science and ML
-    </p1>                                              
+    </p>                                              
   </div>
 </div>
 <br>
