@@ -3,14 +3,12 @@
     <img src="../assets/img/profe.png" style="width: 200px;"/>
   </div>
   <div>
-    <p>
-    - Associate Professor of Biomedical informatics
-    - Professor in charge of BioSTAT consulting at Ajou University School of Medicine
-    - PhD in Neuroimaging (Yonsei Univ), MS in STAT (HUFS)
-    - Expertise: neuroimaging, bioSTAT, network science and ML
-    </p>                                              
+    <p1>Associate Professor of Biomedical informatics</p1><br>
+    <p1>Professor in charge of BioSTAT consulting at Ajou University School of Medicine</p1><br>
+    <p1>PhD in Neuroimaging (Yonsei Univ), MS in STAT (HUFS)</p1><br>
+    <p1>Expertise: neuroimaging, bioSTAT, network science and ML</p1><br>                                
   </div>
 </div>
 <br>
-<p1>Bumhee Park, PhD</p1>
+<p1>Bumhee Park, PhD</p1><br>
 <p1>bhpark@ajou.ac.kr</p1>
