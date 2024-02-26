@@ -1,8 +1,6 @@
 ---
-
 layout: page
 title: People
-subtitle: NeuroSTAT lab
 ---
 
 ### PI: Bumhee Park, PhD
