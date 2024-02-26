@@ -1,20 +1,13 @@
----
+<img width="367" alt="image" src="https://github.com/KIM-YUNHO/demo_neurostat/assets/70754959/cd33eaf5-87c1-443e-b5ca-93a0febb5e6f"><img width="367" alt="image" src="https://github.com/KIM-YUNHO/demo_neurostat/assets/70754959/3904fc66-60c2-4796-b082-cd2a70aa00cf">---
 layout: home
 title:
 ---
+Associate Professor of Biomedical informatics
+Professor in charge of BioSTAT consulting at Ajou University School of Medicine
+PhD in Neuroimaging (Yonsei Univ), MS in STAT (HUFS)
 
+Expertise: neuroimaging, bioSTAT, network science and ML
 
-Laboratory of Neuroimaging and STATistics for biomedical data science (NeuroSTAT) is the research group at Ajou University School of Medicine led by Professor Bumhee Park. We investigate applied statistics (or medical informatics), network science, and machine learning (AI) for diverse neuroimaging and big biomedical/clinical data (e.g., HIRA, NHISS, KNHANES, CDM, as well as EMR) <br><br>
-
-<img src="/demo_neurostat/assets/img/symbol.png" style="width: 200px;"/>
-
-[Collaboration / Consulting / Education available]
-<br>
-- Neuroimaging
-- Biostatistical Consulting 
-- Nationwide clinical data research (심평원, 건강보험공단, 국건영 자료)
-<br>
-
-[NOTICE]
-Current position applicable: 1 PhD student
-- What students learn after joining: neuroimaging, stat/linear algebra/ML and programming for brain science
+<img src="demo_neurostat/assets/img/profe.png" style="width: 200px;"/>
+Bumhee Park, PhD
+bhpark@ajou.ac.kr
