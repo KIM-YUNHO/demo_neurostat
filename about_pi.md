@@ -13,5 +13,5 @@ title: About PI
     <p>Expertise: neuroimaging, bioSTAT, network science and ML</p>
   </div>
 </div>
-<p>Bumhee Park, PhD</p>
-<p>bhpark@ajou.ac.kr</p>
+Bumhee Park, PhD<br>
+bhpark@ajou.ac.kr
