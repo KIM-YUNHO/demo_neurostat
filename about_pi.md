@@ -1,4 +1,4 @@
-<img width="367" alt="image" src="https://github.com/KIM-YUNHO/demo_neurostat/assets/70754959/cd33eaf5-87c1-443e-b5ca-93a0febb5e6f"><img width="367" alt="image" src="https://github.com/KIM-YUNHO/demo_neurostat/assets/70754959/3904fc66-60c2-4796-b082-cd2a70aa00cf">---
+---
 layout: home
 title:
 ---
