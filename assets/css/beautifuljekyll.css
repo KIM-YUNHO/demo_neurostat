@@ -88,7 +88,7 @@ hr.small {
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  background-color: {{ site.hover-col | default: "#8d0f70" }};
 }
 img::selection {
   color: #fff;
@@ -123,7 +123,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+  background-color: {{ site.navbar-col | default: "#f7f7f7" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Lato','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
