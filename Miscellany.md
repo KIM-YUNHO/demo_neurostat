@@ -2,7 +2,7 @@
 layout: home
 title: About PI
 ---
-<img src="../assets/img/profe.png" style="width: 200px; margin-right: 40px;"/>
+<img src="../assets/img/profe.png" style="width: 200px; margin-left: 80px;"/>
 <br>
 **Bumhee Park, PhD**
 bhpark@ajou.ac.kr
