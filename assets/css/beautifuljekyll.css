@@ -51,7 +51,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#8d0f70" }};
 }
 blockquote {
   color: #808080;
@@ -124,7 +124,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#f7f7f7" }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+  border-bottom: 1px solid {{ site.navbar-border-col | default: "#f7f7f7" }};
   font-family: 'Lato','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
   {% if site.navbar-img %}
