@@ -1,8 +1,8 @@
 ---
 layout: page
-title: People
+title: Team
 ---
-
+<br>
 ## [PhD Students]
 
 Seulgi Lee, MA in Clinical Psychology
@@ -11,7 +11,9 @@ Narae Kim, MA in Cognitive Psychology
 
 Yong Hyuk Cho, MD, Clinical Prof of Psychiatry
 (Co-advisor with Prof. Sang-Joon Son)
+
 <br>
+
 ## [MS Students]
 
 Dageon Yeo, BA in psychology
@@ -31,6 +33,7 @@ Ji Hyun Park, MS in mathematics
 HeyLynn Jeon, MS in data science
 
 Jimin Kim, BS in statistics
+
 <br>
 
 ## [Representative Alumni]
