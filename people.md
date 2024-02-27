@@ -5,51 +5,50 @@ title: Team
 
 <br>
 
-## [PhD Students]
+**[PhD Students]**
 
-Seulgi Lee, MA in Clinical Psychology
+◦ Seulgi Lee, MA in Clinical Psychology
 
-Narae Kim, MA in Cognitive Psychology 
+◦ Narae Kim, MA in Cognitive Psychology 
 
-Yong Hyuk Cho, MD, Clinical Prof of Psychiatry
-(Co-advisor with Prof. Sang-Joon Son)
+◦ Yong Hyuk Cho, MD, Clinical Prof of Psychiatry (Co-advisor with Prof. Sang-Joon Son)
 
 <br>
 
-## [MS Students]
+**[MS Students]**
 
-Dageon Yeo, BA in psychology
+◦ Dageon Yeo, BA in psychology
  
-Yunho Kim, BS in computer science
+◦ Yunho Kim, BS in computer science
 
-SeulKi Kim, BS in Life Science
+◦ SeulKi Kim, BS in Life Science
 
-Jungeun Cho, BA in psychology
+◦ Jungeun Cho, BA in psychology
 
 <br>
 
-## [BioSTAT Researchers]
+**[BioSTAT Researchers]**
  
-Ji Hyun Park, MS in mathematics
+◦ Ji Hyun Park, MS in mathematics
 
-HeyLynn Jeon, MS in data science
+◦ HeyLynn Jeon, MS in data science
 
-Jimin Kim, BS in statistics
-
-<br>
-
-## [Representative Alumni]
-
-Eunyoung A. Lee, (Former: PhD student, Current: Assistant professor in XXX)   
-
-Heirim Lee  (Current: PhD student in XXX)   
-
-Seungyun Choi  (Current: PhD student in XXX)   
+◦ Jimin Kim, BS in statistics
 
 <br>
 
-## [Administration]
+**[Representative Alumni]**
 
-Kyung Hee Hong, MA
+◦ Eunyoung A. Lee, (Former: PhD student, Current: Assistant professor in XXX)   
+
+◦ Heirim Lee  (Current: PhD student in XXX)   
+
+◦ Seungyun Choi  (Current: PhD student in XXX)   
+
+<br>
+
+**[Administration]**
+
+◦ Kyung Hee Hong, MA
 
 ◦ 
