@@ -3,8 +3,6 @@ layout: page
 title: Team
 ---
 
-<br>
-
 **[PhD Students]**
 
 ◦ Seulgi Lee, MA in Clinical Psychology
