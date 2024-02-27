@@ -22,12 +22,6 @@ title: People
 
 ### Jungeun Cho, BA in psychology
 
-## ◦ Researchers/Interns ◦
-
-### Kyung Hee Hong, MA
-<img class="img-circle avatar" src="../assets/img/kyunghee.png" style="width: 200px;"/><br>
-* Adiministration
-
 <br>
 
 ## [BioSTAT Researchers]
@@ -48,5 +42,7 @@ title: People
 ### Seungyun Choi  (Current: PhD student in XXX)   
 
 <br>
+
 ## [Administration]
+
 ### Kyung Hee Hong, MA
