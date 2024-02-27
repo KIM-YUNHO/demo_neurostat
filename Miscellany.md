@@ -3,8 +3,6 @@ layout: home
 title: About PI
 ---
 <img src="../assets/img/profe.png" style="width: 200px; margin-left: auto; margin-right: 40px;"/>
-
-
 **Bumhee Park, PhD** &nbsp;(bhpark@ajou.ac.kr)
 <br>
 ◦ Associate Professor of Biomedical informatics<br>
