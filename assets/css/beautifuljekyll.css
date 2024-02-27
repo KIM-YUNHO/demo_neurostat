@@ -263,7 +263,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+  background-color: {{ site.navbar-col | default: "##f7f7f7" }};
   text-decoration: none !important;
   font-weight: normal;
   color: {{ site.navbar-text-col | default: "#404040" }};
