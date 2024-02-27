@@ -378,7 +378,7 @@ img {
   }
 }
 
-/* --- Footer --- */
+/* --- Footer --- 
 
 footer {
   padding: 1.875rem 0;
@@ -935,13 +935,13 @@ pre {
   border: unset;
 }
 
-/* --- Social media sharing section --- */
+/* --- Social media sharing section ---
 
 #social-share-section {
   margin-bottom: 1.875rem;
   margin-top: 1.875rem;
 }
-
+ */
 /* --- Notification boxes --- */
 .box-note,
 .box-warning,
